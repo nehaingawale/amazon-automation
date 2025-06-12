@@ -5,7 +5,7 @@
 - Selenium WebDriver
 - TestNG
 - Maven
-- POM Design Pattern
+- POM 
 
 ## Steps to Run
 1. Clone the repo or download ZIP.
